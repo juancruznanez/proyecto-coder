@@ -1,0 +1,67 @@
+:root{
+    --primary: #005b68;
+}
+
+
+.body{
+font-family: 'Poppins', 'Roboto';
+// font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    min-height: 90px;
+    font-family: 'Poppins', sans-serif;
+    // font-family: 'Roboto', sans-serif;
+}
+.btn-primary{
+    background-color: var(--primary);
+    border: var(--primary);
+
+}
+.text-primary{
+    color: var();
+}
+
+.navbar.btn{
+    padding: .625rem 1.25rem;
+}
+
+.bg-primary{
+    background-color: var(--primary) !important;
+}
+
+.content{
+max-width: 500px;
+padding: 50px;}
+
+#hero{
+    height: 900px;
+
+}
+.imagen-1{
+    float: right;
+}
+#hero{
+    height: 900px;
+
+}
+
+// @media  (max-width 992px){
+//    .navbar{
+//        position: relative; !important
+//    }
+
+//     }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
